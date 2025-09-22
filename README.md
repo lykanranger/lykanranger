@@ -5,6 +5,10 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
 <h3 align="center">A final year MCA student and aspiring developer.</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="600">
+</p>
+
 ---
 
 <p align="center">
