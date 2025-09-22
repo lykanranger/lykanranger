@@ -1,1 +1,1 @@
-![My Banner GIF](PASTE_THE_IMAGE_ADDRESS_YOU_COPIED_HERE)
+![My Banner GIF](https://raw.githubusercontent.com/lykanranger/lykanranger/main/banner.gif)
