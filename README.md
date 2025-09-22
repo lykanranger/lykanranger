@@ -6,7 +6,7 @@
 <h3 align="center">A final year MCA student and aspiring developer.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%">
 </p>
 
 ---
