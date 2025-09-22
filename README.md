@@ -2,10 +2,6 @@
   <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/yYxXkxPC0V5t58c6dG/giphy.gif" width="600">
-</p>
-
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
 <h3 align="center">A final year MCA student and aspiring developer.</h3>
 
