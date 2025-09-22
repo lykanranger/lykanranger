@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/05dc82c8235201c106591873b0beb644/285513511853bc63-d3/s540x810/e8674ff0a18f3a39e3144d18c9339b4609bce055.gif" width="600">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNnN3c4Z3R3OHp5cGRsOG0xdXdxejc1dGsyYWM4cGt4OXp6YW9ucSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jVAt83ieT49H6ja5Ty/giphy.gif" width="600">
 </p>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
