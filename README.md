@@ -1,1 +1,1 @@
-![My Banner GIF](https://raw.githubusercontent.com/lykanranger/lykanranger/main/banner.gif)
+![Coding GIF](https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif)
