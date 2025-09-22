@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/yYxXkxPC0V5t58c6dG/giphy.gif" width="600">
 </p>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
