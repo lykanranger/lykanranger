@@ -1,1 +1,1 @@
-![Aesthetic GIF](https://media.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif)
+![My Banner GIF](PASTE_THE_IMAGE_ADDRESS_YOU_COPIED_HERE)
