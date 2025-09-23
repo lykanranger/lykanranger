@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="100%">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="100%">
 </p>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=39FF14&center=true&vCenter=true&width=550&lines=A+final+year+MCA+student;Aspiring+Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/O1zByby.gif" width="100%">
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/karunb-binny" target="_blank">
@@ -21,7 +22,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/O1zByby.gif" width="100%">
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -33,7 +36,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/O1zByby.gif" width="100%">
+</p>
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
