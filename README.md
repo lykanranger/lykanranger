@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif" width="100%">
+</p>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
 <h3 align="center">A final year MCA student and aspiring developer.</h3>
