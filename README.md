@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/O1zByby.gif" width="100%">
+  <img src="https://i.imgur.com/21p32Vw.gif" width="100%">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/O1zByby.gif" width="100%">
+  <img src="https://i.imgur.com/21p32Vw.gif" width="100%">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/O1zByby.gif" width="100%">
+  <img src="https://i.imgur.com/21p32Vw.gif" width="100%">
 </p>
 
 <h3 align="center">My GitHub Stats:</h3>
