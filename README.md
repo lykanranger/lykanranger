@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64510004/149221147-3868bf34-9149-4179-8877-2e118182b810.gif" width="100%">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="100%">
 </p>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
-
-<p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="100%">
-</p>
 
 <h3 align="center">A final year MCA student and aspiring developer.</h3>
 
