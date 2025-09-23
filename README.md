@@ -45,3 +45,6 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lykanranger&layout=compact&theme=radical" alt="lykanranger's Top Languages"/>
 </p>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lykanranger&theme=radical" alt="Activity Graph"/>
