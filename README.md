@@ -2,7 +2,6 @@
   <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="100%">
 </p>
 
-
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
 
 <p align="center">
@@ -40,12 +39,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lykanranger&style=flat-square&color=blueviolet" alt="Profile Views"/>
   <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lykanranger&theme=radical" alt="Activity Graph"/>
+  <br><br>
   <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=lykanranger&show_icons=true&theme=radical" alt="lykanranger's GitHub Stats"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lykanranger&layout=compact&theme=radical" alt="lykanranger's Top Languages"/>
 </p>
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lykanranger&theme=radical" alt="Activity Graph"/>
