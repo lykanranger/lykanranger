@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="100%">
+  <img src="hacker.gif" alt="Hacker GIF" width="100%">
 </p>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
@@ -17,10 +17,6 @@
   <a href="https://github.com/lykanranger" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="hacker.gif" alt="Hacker GIF" width="100%">
 </p>
 
 ---
