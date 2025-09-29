@@ -19,14 +19,34 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+<div align="center">
+  <p>
+    <img src="c.png" alt="C" width="40" height="40"/>
+    <img src="c++.png" alt="C++" width="40" height="40"/>
+    <img src="java.png" alt="Java" width="40" height="40"/>
+    <img src="python.png" alt="Python" width="40" height="40"/>
+    <img src="js.png" alt="JavaScript" width="40" height="40"/>
+    <img src="typescript.png" alt="TypeScript" width="40" height="40"/>
+    <img src="html.png" alt="HTML5" width="40" height="40"/>
+    <img src="css.png" alt="CSS3" width="40" height="40"/>
+    <img src="php.png" alt="PHP" width="40" height="40"/>
+  </p>
+  <p>
+    <img src="react.png" alt="React" width="40" height="40"/>
+    <img src="bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+    <img src="tailwind.png" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="mysql.png" alt="MySQL" width="40" height="40"/>
+    <img src="mongodb.png" alt="MongoDB" width="40" height="40"/>
+  </p>
+  <p>
+    <img src="git.png" alt="Git" width="40" height="40"/>
+    <img src="vscode.png" alt="VS Code" width="40" height="40"/>
+    <img src="pycharm.png" alt="PyCharm" width="40" height="40"/>
+    <img src="figma.png" alt="Figma" width="40" height="40"/>
+    <img src="canva.png" alt="Canva" width="40" height="40"/>
+    <img src="photoshop.png" alt="Photoshop" width="40" height="40"/>
+  </p>
+</div>
 
 ---
 
