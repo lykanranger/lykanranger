@@ -28,15 +28,11 @@
     <img src="html.png" alt="HTML5" width="40" height="40"/>
     <img src="css.png" alt="CSS3" width="40" height="40"/>
     <img src="php.png" alt="PHP" width="40" height="40"/>
-  </p>
-  <p>
     <img src="react.png" alt="React" width="40" height="40"/>
     <img src="bootstrap.png" alt="Bootstrap" width="40" height="40"/>
     <img src="tailwind.png" alt="Tailwind CSS" width="40" height="40"/>
     <img src="mysql.png" alt="MySQL" width="40" height="40"/>
     <img src="mongodb.png" alt="MongoDB" width="40" height="40"/>
-  </p>
-  <p>
     <img src="git.png" alt="Git" width="40" height="40"/>
     <img src="vscode.png" alt="VS Code" width="40" height="40"/>
     <img src="pycharm.png" alt="PyCharm" width="40" height="40"/>
