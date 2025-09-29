@@ -10,8 +10,11 @@
 
 ---
 
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/karunbinny/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/karunbinny/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/karunbinny/" target="_blank"><img src="icons/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/karunbinny/" target="_blank"><img src="icons/instagram.png" alt="Instagram" width="40" height="40"></a>
+</p>
 
 ---
 
