@@ -21,8 +21,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <p>
-    <img src="c.png" alt="C" width="40" height="40"/>
-    <img src="c++.png" alt="C++" width="40" height="40"/>
     <img src="java.png" alt="Java" width="40" height="40"/>
     <img src="python.png" alt="Python" width="40" height="40"/>
     <img src="js.png" alt="JavaScript" width="40" height="40"/>
@@ -43,7 +41,6 @@
     <img src="vscode.png" alt="VS Code" width="40" height="40"/>
     <img src="pycharm.png" alt="PyCharm" width="40" height="40"/>
     <img src="figma.png" alt="Figma" width="40" height="40"/>
-    <img src="canva.png" alt="Canva" width="40" height="40"/>
     <img src="photoshop.png" alt="Photoshop" width="40" height="40"/>
   </p>
 </div>
