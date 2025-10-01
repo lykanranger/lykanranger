@@ -8,7 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=39FF14&center=true&vCenter=true&width=550&lines=A+final+year+MCA+student;Aspiring+Software+Developer" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karunbinny/" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="30" height="30"></a>
@@ -16,7 +18,9 @@
   <a href="https://www.instagram.com/karunbinny/" target="_blank"><img src="instagram.png" alt="Instagram" width="30" height="30"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
@@ -31,7 +35,9 @@
   </p>
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
+</p>
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
