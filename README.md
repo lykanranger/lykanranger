@@ -11,9 +11,9 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karunbinny/" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/karunbinny/" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="40" height="30"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/karunbinny/" target="_blank"><img src="instagram.png" alt="Instagram" width="35" height="35"></a>
+  <a href="https://www.instagram.com/karunbinny/" target="_blank"><img src="instagram.png" alt="Instagram" width="35" height="30"></a>
 </p>
 
 ---
