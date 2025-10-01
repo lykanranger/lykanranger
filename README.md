@@ -5,6 +5,10 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="30px">, I'm Karun Binny 👋</h1>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
+</p>
+
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=39FF14&center=true&vCenter=true&width=550&lines=A+final+year+MCA+student;Aspiring+Software+Developer" alt="Typing SVG" />
 </p>
 
