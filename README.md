@@ -45,8 +45,6 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lykanranger" alt="lykanranger" /></a>
-  <br><br>
   <img src="https://komarev.com/ghpvc/?username=lykanranger&style=flat-square&color=blueviolet" alt="Profile Views"/>
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lykanranger&theme=light" alt="Activity Graph"/>
