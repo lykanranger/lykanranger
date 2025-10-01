@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lykanranger&style=flat-square&color=blueviolet" alt="Profile Views"/>
   <br><br>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph">
   <br><br>
   <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
   <br><br>
