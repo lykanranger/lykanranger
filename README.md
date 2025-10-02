@@ -30,8 +30,8 @@
 <div align="center">
   <p>
     <img src="python.png" alt="Python" width="40" height="40"/>
-    <img src="html.png" alt="HTML5" width="40" height="40"/>
-    <img src="css.png" alt="CSS3" width="40" height="40"/>
+    <img src="html.png" alt="HTML5" width="40" height="45"/>
+    <img src="css.png" alt="CSS3" width="40" height="45"/>
     <img src="js.png" alt="JavaScript" width="40" height="40"/>
     <img src="react.png" alt="React" width="40" height="40"/>
     <img src="mongodb.png" alt="MongoDB" width="40" height="40"/>
