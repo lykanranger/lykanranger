@@ -73,9 +73,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lykanranger&show_icons=true&theme=radical" alt="lykanranger's GitHub Stats"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/streamer.gif" alt="Streamer GIF" height="195px">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lykanranger&show_icons=true&theme=radical" alt="lykanranger's GitHub Stats" height="195px" width="100%">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
