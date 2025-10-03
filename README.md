@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
+  <img src="banner.gif" alt="Banner GIF" width="100%">
 </p>
 
 <h1 align="center">Hello, I'm Karun Binny <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/pokemon.gif" width="40px"></h1>
@@ -34,10 +34,6 @@
     <img src="vscode.png" alt="VS Code" width="40" height="40"/>
   </p>
 </div>
-
-<p align="center">
-  <img src="banner.gif" alt="Banner GIF" width="100%">
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
