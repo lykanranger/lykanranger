@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hacker.gif" alt="Hacker GIF" width="100%">
+  <img src="hacker.gif" alt="Banner GIF" width="100%">
 </p>
 
 <h1 align="center">Hello, I'm Karun Binny <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/pokemon.gif" width="40px"></h1>
