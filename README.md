@@ -82,7 +82,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=lykanranger&show_icons=true&theme=radical" alt="lykanranger's GitHub Stats" height="195px" width="100%">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/streamer.gif" alt="Streamer GIF" height="195px">
+      <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/hacker.gif" alt="Hacker GIF" height="195px">
     </td>
   </tr>
 </table>
