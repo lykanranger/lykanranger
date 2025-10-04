@@ -2,10 +2,9 @@
   <img src="banner.gif" alt="Banner GIF" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/title.png" alt="Hello, I'm Karun Binny" height="50px"> 
-  <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/pokemon.gif" height="50px">
-</p>
+<div align="center">
+  <b>Hello, I'm Karun Binny <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/pokemon.gif" width="40px"></b>
+</div>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=39FF14&center=true&vCenter=true&width=550&lines=A+final+year+MCA+student;Aspiring+Software+Developer" alt="Typing SVG" />
