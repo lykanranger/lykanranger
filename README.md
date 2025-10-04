@@ -83,6 +83,9 @@
       <td>
         <img src="https://nirzak-streak-stats.vercel.app/?user=lykanranger&theme=dark&hide_border=false" alt="lykanranger's Streak Stats"/>
       </td>
+      <td>
+        <img src="https://github-contributor-stats.vercel.app/api?username=lykanranger&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      </td> 
     </tr>
   </table>
 </p>
