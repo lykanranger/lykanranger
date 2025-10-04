@@ -75,7 +75,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lykanranger&layout=compact&theme=radical" alt="lykanranger's Top Languages"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lykanranger&layout=compact&theme=radical" alt="lykanranger's Top Languages"/>
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=lykanranger&theme=dark&hide_border=false" alt="lykanranger's Streak Stats"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
