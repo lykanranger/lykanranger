@@ -32,6 +32,7 @@
     <img src="react.png" alt="React" width="40" height="40"/>
     <img src="mongodb.png" alt="MongoDB" width="40" height="40"/>
     <img src="vscode.png" alt="VS Code" width="40" height="40"/>
+    <img src="c++.png" alt="C++" width="40" height="40"/>
   </p>
 </div>
 
