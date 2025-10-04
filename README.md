@@ -2,7 +2,9 @@
   <img src="banner.gif" alt="Banner GIF" width="100%">
 </p>
 
-<h1 align="center">Hello, I'm Karun Binny <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/pokemon.gif" width="40px"></h1>
+<div align="center">
+  <b>Hello, I'm Karun Binny <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/pokemon.gif" width="40px"></b>
+</div>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=39FF14&center=true&vCenter=true&width=550&lines=A+final+year+MCA+student;Aspiring+Software+Developer" alt="Typing SVG" />
