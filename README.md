@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karunbinny/" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="30" height="30"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/karunbinny/" target="_blank"><img src="instagram.png" alt="Instagram" width="30" height="30"></a>
+  <a href="https://my-socialmedia-links.netlify.app/">
+    <img src="https://img.shields.io/badge/View%20My-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit My SocialMedia"/>
+  </a>
 </p>
 
 <p align="center">
