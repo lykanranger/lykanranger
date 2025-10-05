@@ -13,6 +13,16 @@
 </p>
 
 <p align="center">
+  <a href="https://karunbinny-portfolio.netlify.app/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&fontSize=35&text=Visit%20My%20Portfolio" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/karunbinny/" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="30" height="30"></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/karunbinny/" target="_blank"><img src="instagram.png" alt="Instagram" width="30" height="30"></a>
