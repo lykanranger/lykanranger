@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://karunbinny-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=400&duration=2000&pause=100&color=F70000,00F700,0000F7&lines=Visit+My+Portfolio;Visit+My+Portfolio;Visit+My+Portfolio" alt="Visit My Portfolio" />
+    <img src="https://img.shields.io/badge/View%20My-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="View My Portfolio"/>
   </a>
 </p>
 
