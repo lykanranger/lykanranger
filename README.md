@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://karunbinny-portfolio.netlify.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&fontSize=35&text=Visit%20My%20Portfolio" alt="Visit My Portfolio"/>
-  </a>
+  <a href="https://karunbinny-portfolio.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=400&duration=2000&pause=100&color=F70000,00F700,0000F7&lines=Visit+My+Portfolio;Visit+My+Portfolio;Visit+My+Portfolio" alt="Visit My Portfolio" />
+  </a>
 </p>
 
 <p align="center">
