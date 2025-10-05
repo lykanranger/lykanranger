@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://my-socialmedia-links.netlify.app/">
-    <img src="https://img.shields.io/badge/View%20My-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit My SocialMedia"/>
+    <img src="https://img.shields.io/badge/View%20My-SocialMedia-343A40?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit My SocialMedia"/>
   </a>
 </p>
 
