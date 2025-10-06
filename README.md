@@ -50,7 +50,7 @@
       <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/streamer.gif" alt="Streamer GIF" height="195px">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lykanranger&show_icons=true&theme=radical" alt="lykanranger's GitHub Stats" height="195px" width="100%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=lykanranger&theme=dark&hide_border=false" alt="lykanranger's Streak Stats"/>       
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/hacker.gif" alt="Hacker GIF" height="195px">
@@ -77,7 +77,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lykanranger&layout=compact&theme=radical" alt="lykanranger's Top Languages"/>
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=lykanranger&theme=dark&hide_border=false" alt="lykanranger's Streak Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=lykanranger&show_icons=true&theme=radical" alt="lykanranger's GitHub Stats" height="195px" width="100%">
       </td>
       <td>
         <img src="https://github-contributor-stats.vercel.app/api?username=lykanranger&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
