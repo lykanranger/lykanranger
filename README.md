@@ -74,7 +74,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lykanranger&layout=compact&theme=radical" alt="lykanranger's Top Languages"/>
+        <img src="images/s1.jpg" alt="Custom Image"/>
       </td>
       <td>
         <img src="https://github-contributor-stats.vercel.app/api?username=lykanranger&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">        
