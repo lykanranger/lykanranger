@@ -80,7 +80,7 @@
         <img src="https://github-contributor-stats.vercel.app/api?username=lykanranger&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">        
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lykanranger&show_icons=true&theme=radical" alt="lykanranger's GitHub Stats" height="195px" width="100%">
+        <img src="bbb.gif" alt="A descriptive caption for your GIF"/> 
       </td> 
     </tr>
   </table>
