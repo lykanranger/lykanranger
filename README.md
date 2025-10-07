@@ -74,7 +74,7 @@
   <table>
     <tr>
       <td>
-        <img src="s1.jpg" alt="Custom Image"/>
+        <img src="s1.jpg" alt="Custom Image" height="195px/>
       </td>
       <td>
         <img src="https://github-contributor-stats.vercel.app/api?username=lykanranger&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">        
