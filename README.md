@@ -79,9 +79,6 @@
       <td>
         <img src="https://github-contributor-stats.vercel.app/api?username=lykanranger&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">        
       </td>
-      <td>
-        <img src="bbb.gif" alt="A descriptive caption for your GIF"/> 
-      </td> 
     </tr>
   </table>
 </p>
