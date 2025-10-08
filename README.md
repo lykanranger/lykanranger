@@ -75,17 +75,7 @@
 </p>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lykanranger&layout=compact&theme=radical" alt="lykanranger's Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lykanranger&layout=compact&theme=radical&hide_border=true" alt="lykanranger's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lykanranger&layout=compact&theme=tokyonight&hide_border=true" alt="lykanranger's Top Languages"/>
 </p>
 
 <p align="center">
