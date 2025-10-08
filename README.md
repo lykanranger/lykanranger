@@ -71,16 +71,7 @@
 </p>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="s1.jpg" alt="Custom Image" height="195px/>
-      </td>
-      <td>
-        <img src="https://github-contributor-stats.vercel.app/api?username=lykanranger&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">        
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=lykanranger&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="lykanranger's GitHub Stats"/>
 </p>
 
 <p align="center">
