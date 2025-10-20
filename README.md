@@ -5,7 +5,7 @@
 <h2 align="center">I'm Karun Binny <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/pokemon.gif" width="40px"></h2>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=39FF14&center=true&vCenter=true&width=550&lines=A+final+year+MCA+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Software+Developer+%F0%9F%92%BB;Gemini+Certified+University+Student+%E2%9C%A8&duration=2000&pause=500" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=39FF14&center=true&vCenter=true&width=550&lines=A+final+year+MCA+student;Software+Developer+%F0%9F%92%BB;Gemini+Certified+University+Student+%E2%9C%A8&duration=2000&pause=500" alt="Typing SVG" />
 </p>
 
 <p align="center">
