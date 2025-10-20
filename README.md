@@ -5,12 +5,6 @@
 <h2 align="center">I'm Karun Binny <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/pokemon.gif" width="40px"></h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,postman,linux,vercel,netlify,nextjs,tailwind,aws,postgresql,kubernetes,figma,jest,npm,webpack" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
 </p>
 
@@ -28,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,postman,linux,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,postman,linux,vercel,netlify,nextjs,tailwind,aws,postgresql,kubernetes,figma,jest,npm,webpack" />
   </a>
 </p>
 
