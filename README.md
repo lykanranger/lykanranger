@@ -25,6 +25,10 @@
 <h3 align="center">LANGUAGES AND TOOLS</h3>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line" width="100%">
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,postman,linux,vercel,netlify,nextjs,tailwind,aws,postgresql,kubernetes,figma,jest,npm,webpack,django,spring,vue,svelte,angular,bootstrap,sass,flutter,dart,go,firebase,redis,githubactions,vite,tensorflow" />
   </a>
