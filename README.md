@@ -5,7 +5,9 @@
 <h2 align="center">I'm Karun Binny <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/pokemon.gif" width="40px"></h2>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=39FF14&center=true&vCenter=true&width=550&lines=A+final+year+MCA+student;Software+Developer+%F0%9F%92%BB;Gemini+Certified+University+Student+%E2%9C%A8&duration=2000&pause=500" alt="Typing SVG" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,postman,linux,vercel,netlify,nextjs,tailwind,aws,postgresql,kubernetes,figma,jest,npm,webpack" />
+  </a>
 </p>
 
 <p align="center">
