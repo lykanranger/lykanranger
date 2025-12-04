@@ -54,7 +54,7 @@
       <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/streamer.gif" alt="Streamer GIF" height="195px">
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=lykanranger&theme=dark&hide_border=false" alt="lykanranger's Streak Stats" width="400"/>       
+      <img src="https://nirzak-streak-stats.vercel.app/?user=lykanranger&theme=dark&hide_border=false" alt="lykanranger's Streak Stats" width="400"/>        
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/main/hacker.gif" alt="Hacker GIF" height="195px">
@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="banner2.gif" alt="Banner2 GIF" width="100%">
+  <img src="https://raw.githubusercontent.com/lykanranger/lykanranger/refs/heads/main/banner2.gif" alt="Banner2 GIF" width="100%">
 </p>
 
 <p align="center">
